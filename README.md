@@ -1,3 +1,4 @@
+![icon16](https://github.com/user-attachments/assets/f4b7476b-b9c9-4afe-8f60-a557e76ec04f)
 # Lazy Loaded Files Extractor
 
 A Chrome extension that helps extract and identify lazy-loaded file names from scripts. This tool is particularly useful for developers who need to analyze and understand the structure of dynamically loaded JavaScript files in web applications.
