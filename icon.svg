@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="64" cy="64" r="60" fill="#264F78"/>
+  
+  <!-- File shape -->
+  <path d="M40 32h32l16 16v48H40V32z" fill="white"/>
+  <path d="M72 32v16h16" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Lightning bolt -->
+  <path d="M64 48l-12 24h8l-4 16 16-24h-8l8-16z" fill="#264F78"/>
+</svg> 
