@@ -3,6 +3,8 @@
 
 A Chrome extension that helps extract and identify lazy-loaded file names from scripts. This tool is particularly useful for developers who need to analyze and understand the structure of dynamically loaded JavaScript files in web applications.
 
+![image](https://github.com/user-attachments/assets/54fc9d3f-1861-4125-8ffe-880e84414921)
+
 ## Features
 
 - Extract module map information from scripts
